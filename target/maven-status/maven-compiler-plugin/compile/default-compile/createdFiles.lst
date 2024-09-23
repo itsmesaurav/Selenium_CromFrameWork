@@ -1,0 +1,5 @@
+pageObjects\SearchResultsPage.class
+pageObjects\HomePage.class
+resources\package-info.class
+pageObjects\ProductPage.class
+myAutomationProject\Croma\BaseTest.class
